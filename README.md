@@ -1,2 +1,5 @@
-# hal-explorer-webjar
-Packing HAL Explorer into a webjar
+WebJar for HAL Explorer
+
+More info: http://webjars.org
+
+Upstream: https://github.com/toedter/hal-explorer
