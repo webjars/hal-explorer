@@ -18,7 +18,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <upstream.url>https://github.com/toedter/hal-explorer/releases/download/v${version.unsnapshot}/dist.zip</upstream.url>
+        <upstream.url>https://github.com/toedter/hal-explorer/releases/download/v${version.unsnapshot}/hal-explorer-${version.unsnapshot}.zip</upstream.url>
         <destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${project.version}</destDir>
     </properties>
 
