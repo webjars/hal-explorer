@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>hal-explorer</artifactId>
-    <version>0.9.5</version>
+    <version>0.9.6-SNAPSHOT</version>
     <name>HAL Explorer</name>
     <description>WebJar for HAL Explorer</description>
     <url>http://webjars.org</url>
@@ -42,7 +42,7 @@
         <url>http://github.com/webjars/hal-explorer</url>
         <connection>scm:git:https://github.com/webjars/hal-explorer.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/hal-explorer.git</developerConnection>
-        <tag>hal-explorer-0.9.5</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
