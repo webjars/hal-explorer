@@ -11,14 +11,14 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>hal-explorer</artifactId>
-    <version>0.14.1-SNAPSHOT</version>
+    <version>0.15.0-SNAPSHOT</version>
     <name>HAL Explorer</name>
     <description>WebJar for HAL Explorer</description>
     <url>http://webjars.org</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <upstream.url>https://github.com/toedter/hal-explorer/releases/download/v${version.unsnapshot}/hal-explorer-${version.unsnapshot}.zip</upstream.url>
+        <upstream.url>https://github.com/toedter/hal-explorer/releases/download/v015.0/hal-explorer-${version.unsnapshot}.zip</upstream.url>
         <destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${project.version}</destDir>
     </properties>
 
