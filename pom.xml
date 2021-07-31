@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>hal-explorer</artifactId>
-    <version>0.17.1-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <name>HAL Explorer</name>
     <description>WebJar for HAL Explorer</description>
     <url>http://webjars.org</url>
